@@ -1,3 +1,5 @@
+// Adding comment to this file.
+
 var visits = getCookie("counter");
 
 if (visits) {
